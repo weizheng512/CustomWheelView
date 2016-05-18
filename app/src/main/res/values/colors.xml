@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="wheel_select_text">#ffffff</color>
+    <color name="wheel_unselect_text">#9e9492</color>
+    <color name="wheel_select_text_bg">#66cbff</color>
+    
+    <!--富文本字体颜色-->
+    <color name="text_blue">#0070c1</color>
+    <color name="text_yellow">#ff9c00</color>
+    <color name="text_red">#c10000</color>
+    <color name="text_purple">#920783</color>
+    <color name="text_orange">#ff4c40</color>
+    <color name="text_green">#407600</color>
+    <color name="text_grey">#808080</color>
+    <color name="text_drakblue">#004080</color>
+    <color name="text_cyan">#408080</color>
+
+</resources>
